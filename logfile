@@ -1,0 +1,10 @@
+LOG:  database system was shut down at 2013-10-05 08:22:49 EDT
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+FATAL:  database "testapp_development" does not exist
+FATAL:  database "testapp_test" does not exist
+FATAL:  database "testapp_production" does not exist
+LOG:  autovacuum launcher shutting down
+LOG:  received smart shutdown request
+LOG:  shutting down
+LOG:  database system is shut down
